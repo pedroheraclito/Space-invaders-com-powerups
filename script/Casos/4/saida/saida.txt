@@ -1,0 +1,127 @@
+Pontos: 0 | Iteracoes: 0
+_______________________
+|III III III III      |
+|\T/ \T/ \T/ \T/      |
+|                     |
+|III III III III      |
+|\T/ \T/ \T/ \T/      |
+|                     |
+|                     |
+|                     |
+|                     |
+|         /T\         |
+|         oOo         |
+|_____________________|
+Pontos: 0 | Iteracoes: 1
+_______________________
+| III III III III     |
+| \T/ \T/ \T/ \T/     |
+|                     |
+| III III III III     |
+| \T/ \T/ \T/ \T/     |
+|                     |
+|                     |
+|                     |
+|                     |
+|          /T\        |
+|          oOo        |
+|_____________________|
+Pontos: 0 | Iteracoes: 2
+_______________________
+| III III III III     |
+| \T/ \T/ \T/ \T/     |
+|                     |
+| III III III III     |
+| \T/ \T/ \T/ \T/     |
+|                     |
+|                     |
+|                     |
+|                     |
+|           /T\       |
+|           oOo       |
+|_____________________|
+Pontos: 0 | Iteracoes: 3
+_______________________
+|  III III III III    |
+|  \T/ \T/ \T/ \T/    |
+|                     |
+|  III III III III    |
+|  \T/ \T/ \T/ \T/    |
+|                     |
+|                     |
+|                     |
+|                     |
+|            /T\      |
+|            oOo      |
+|_____________________|
+Pontos: 0 | Iteracoes: 4
+_______________________
+|  III III III III    |
+|  \T/ \T/ \T/ \T/    |
+|                     |
+|  III III III III    |
+|  \T/ \T/ \T/ \T/    |
+|               .     |
+|                     |
+|                     |
+|                     |
+|             /T\     |
+|             oOo     |
+|_____________________|
+Pontos: 0 | Iteracoes: 5
+_______________________
+|   III III III III   |
+|   \T/ \T/ \T/ \T/   |
+|                     |
+|   III III III III   |
+|   \T/ \T/ \T/ \T/   |
+|                     |
+|               .     |
+|                     |
+|              *      |
+|             /T\     |
+|             oOo     |
+|_____________________|
+Pontos: 0 | Iteracoes: 6
+_______________________
+|   III III III III   |
+|   \T/ \T/ \T/ \T/   |
+|                     |
+|   III III III III   |
+|   \T/ \T/ \T/ \T/   |
+|                     |
+|                     |
+|              *.     |
+|                     |
+|             /T\     |
+|             oOo     |
+|_____________________|
+Pontos: 0 | Iteracoes: 7
+_______________________
+|    III III III III  |
+|    \T/ \T/ \T/ \T/  |
+|                     |
+|    III III III III  |
+|    \T/ \T/ \T/ \T/  |
+|                     |
+|              *      |
+|                     |
+|               .     |
+|             /T\     |
+|             oOo     |
+|_____________________|
+Pontos: 0 | Iteracoes: 8
+_______________________
+|    III III III III  |
+|    \T/ \T/ \T/ \T/  |
+|                     |
+|    III III III III  |
+|    \T/ \T/ \T/ \T/  |
+|              *      |
+|                     |
+|                     |
+|                     |
+|                     |
+|                     |
+|_____________________|
+As naves alienigenas te eliminaram! Fim de jogo.
