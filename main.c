@@ -686,10 +686,10 @@ void Loopprincipal(tJogo jogo, char *argv)
             {
                jogo=Modofrenetico(jogo);
             }
-            //else if (jogo.iteracao % 3 == 0 && jogo.iteracao % 2 != 0)
-            //{
-                //jogo = AtirarInimigo(jogo);
-            //}
+            else if (jogo.iteracao % 3 == 0 && jogo.iteracao % 2 != 0)
+            {
+                jogo = AtirarInimigo(jogo);
+            }
             jogo.iteracao++;
 
             jogo = InicializaMapa(jogo);
